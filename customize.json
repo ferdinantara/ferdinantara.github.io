@@ -2,7 +2,7 @@
   "greeting": "Halo",
   "name": "Monica",
   "greetingText": "Karena waktu ultah kamu di cirebon aku bikin ini hehe",
-  "wishText": "Semoga sehat selalu untuk meraih impianmu! :)",
+  "wishText": "Semoga sehat selalu untuk meraih impianmu! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "Met ultah yang ke 21 yeyy :D",
   "textInChatBox": "Cara bikin hadiah ulang tahun bagus",
@@ -17,6 +17,7 @@
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Hay sayang",
+  "myText": "Puji syukur Tuhan mempertemukan kita waktu itu<br> Terimakasih telah mengajariku banyak hal, cinta dan usaha<br> Hari ini 21 tahun kamu menginjak dunia yang sangat berat<br> Namun ingatlah aku akan selalu berada disampingmu :)<br> SELAMAT ULANG TAHUN AYANG",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }

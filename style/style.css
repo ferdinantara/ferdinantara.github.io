@@ -243,10 +243,10 @@ body {
   margin: 10px 0 0;
 }
 
-.nine p {
+/* .nine p {
   font-size: 2rem;
   font-weight: lighter;
-}
+} */
 
 #replay {
   z-index: 3;
