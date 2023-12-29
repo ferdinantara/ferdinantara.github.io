@@ -1,14 +1,14 @@
 {
   "greeting": "Halo",
   "name": "Monica",
-  "greetingText": "Karena waktu ultah kamu di cirebon aku bikin ini hehe",
+  "greetingText": "Tebak ini apa hayoo",
   "wishText": "Semoga sehat selalu untuk meraih impianmu! ;)",
-  "imagePath": "img/monic.HEIC",
-  "text1": "Met ultah yang ke 21 yeyy :D",
-  "textInChatBox": "Cara bikin hadiah ulang tahun bagus",
+  "imagePath": "img/monic.png",
+  "text1": "Met ultah yang ke 21 Sayang :D",
+  "textInChatBox": "Cara surprise ulang tahun",
   "sendButtonLabel": "Send",
-  "text2": "Hehe gajadii, aku pengin doing something cool",
-  "text3": "Tapi wait kenapa aku ga bikin suratnya lewat website aja yaa",
+  "text2": "Hehe becanda, aku pengin coba bikin sesuatu yang keren ",
+  "text3": "Tapi wait kenapa aku ga bikin pake caraku sendiri ya",
   "text4Adjective": "special",
   "text5Entry": "Karena,",
   "text5Content": "kamu special",
@@ -17,7 +17,6 @@
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Hay sayang",
-  "myText": "Puji syukur Tuhan mempertemukan kita waktu itu<br> Terimakasih telah mengajariku banyak hal, cinta dan usaha<br> Hari ini 21 tahun kamu menginjak dunia yang sangat berat<br> Namun ingatlah aku akan selalu berada disampingmu :)<br> SELAMAT ULANG TAHUN AYANG",
   "replayText": "Klik lagi kalo mau liat hehe",
   "outroSmiley": ":)"
 }
