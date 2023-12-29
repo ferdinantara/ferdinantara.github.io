@@ -253,6 +253,10 @@ body {
   cursor: pointer;
 }
 
+.monic-dp {
+  width:20%;
+}
+
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
